@@ -1,4 +1,4 @@
-![vishal](https://github.com/user-attachments/assets/71fb0d29-1c61-4c60-ae86-56738d708786)
+<!-- ![vishal](https://github.com/user-attachments/assets/71fb0d29-1c61-4c60-ae86-56738d708786) -->
 <!-- Profile Header -->
 <p align="center">
   <img src="assets/vishal.jpeg" width="120" style="border-radius:50%" alt="Vishal Talsaniya"/>
@@ -12,6 +12,18 @@
   <a href="assets/Vishal Talsaniy_Backend_resume.pdf">📄 Download Resume</a> •
   <a href="https://linkedin.com/in/vishaltalsaniya" target="_blank">LinkedIn</a>
 </p>
+
+---
+
+## 📚 Table of Contents
+
+- [👨‍💻 About Me](#-about-me)
+- [🛠️ Skills](#️-skills)
+- [🏢 Experience](#-experience)
+- [🚀 Projects](#-projects)
+- [📈 GitHub Stats](#-github-stats)
+- [📫 Contact](#-contact)
+- [🔗 Connect with Me](#-connect-with-me)
 
 ---
 
@@ -70,20 +82,43 @@ Currently learning **VoIP technologies** with **FreeSWITCH** and **Kamailio** fo
 ### 🚀 Projects
 
 #### CRM System
-*Go, MySQL, RabbitMQ*  
-Full-fledged system with user auth, file uploads, and analytics built using Go, MySQL, and RabbitMQ  
+**Tech Stack:** *Go, MySQL, RabbitMQ*  
+A Full-fledged system with user auth, file uploads, and analytics built using Go, MySQL, and RabbitMQ  
 [🔗 GitHub](https://github.com/Vishaltalsaniya-7)
 
 
+## 📈 GitHub Stats
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishaltalsaniya-7&show_icons=true&theme=react&hide_border=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishaltalsaniya-7&theme=react&hide_border=true" width="47%"/>
+</p>
 ---
 
 ### 📫 Contact
 
 - **Email:** [vishaltalsaniya991@gmail.com](mailto:vishaltalsaniya991@gmail.com)  
 - **Location:** Limboda, Botad - 364720, Gujarat  
-- **LinkedIn:** [linkedin.com/in/vishaltalsaniya](https://linkedin.com/in/vishaltalsaniya)  
-- **GitHub:** [github.com/vishaltalsaniya](https://github.com/vishaltalsaniya)
+- **LinkedIn:** [linkedin.com/in/vishal-talsaniya](https://linkedin.com/in/vishal-talsaniya)  
+- **GitHub:** [github.com/vishaltalsaniya-7](https://github.com/vishaltalsaniya-7)
+
+---
+
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/vishal-talsaniya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vishaltalsaniya991@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Vishaltalsaniya-7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
