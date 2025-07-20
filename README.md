@@ -1,4 +1,3 @@
-<!-- ![vishal](https://github.com/user-attachments/assets/71fb0d29-1c61-4c60-ae86-56738d708786) -->
 <!-- Profile Header -->
 <p align="center">
   <img src="assets/vishal.jpeg" width="120" style="border-radius:50%" alt="Vishal Talsaniya"/>
